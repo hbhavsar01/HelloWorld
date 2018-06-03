@@ -3,3 +3,4 @@ C:\Users\Sheetal\Desktop\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
+C:\Users\Sheetal\Desktop\HelloWorld\HelloWorld\obj\Release\HelloWorld.csprojResolveAssemblyReference.cache
