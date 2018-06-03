@@ -1,7 +1,5 @@
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.dll
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
-C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.dll
 C:\Users\Sheetal\Desktop\HelloWorld\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
