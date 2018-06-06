@@ -40,7 +40,7 @@ namespace HelloWorldTest
         {
             string text = "Hello GitHub!";
 
-            Assert.AreEqual("Hello GitHub", text);
+            Assert.AreEqual("Hello GitHub!", text);
         }
     }
 }
