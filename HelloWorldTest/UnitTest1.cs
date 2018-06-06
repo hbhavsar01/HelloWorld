@@ -38,7 +38,7 @@ namespace HelloWorldTest
         [TestMethod]
         public void TestMethod5()
         {
-            string text = "Hello GitHub";
+            string text = "Hello GitHub!";
 
             Assert.AreEqual("Hello GitHub!", text);
         }
