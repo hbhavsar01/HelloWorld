@@ -27,5 +27,13 @@ namespace HelloWorldTest
 
             Assert.AreEqual("Hello Jenkins!", text);
         }
+
+        [TestMethod]
+        public void TestMethod4()
+        {
+            string text = "Hello Git!";
+
+            Assert.AreEqual("Hello Git!", text);
+        }
     }
 }
